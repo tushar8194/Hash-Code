@@ -11,6 +11,9 @@ object PizzaDistribution {
       val line2 = x(1)
       println("First Line : " + line1 + " Second Line : " + line2)
       })
+
+    // First Line : 17 4 Second Line : 2 5 6 8
+
   }
 
 
